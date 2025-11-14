@@ -3,7 +3,7 @@ public class TaxCalculator{
    public static void main(String[] args){
    Scanner scanner = new Scanner(System.in);
    double taxRate1 = 0.15;
-   double taxrate2 = 0.20;
+   double taxRate2 = 0.20;
    double incomeCeiling = 30000;
 
    for (int i = 1; i <= 3; i++) {
